@@ -1,0 +1,102 @@
+/*ini buat website...........................................................................................*/
+*{
+    margin:0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(56, 31, 10, 0.856)
+}
+
+img{
+    height: 150px;
+    width:300px;
+    position: relative;
+    top: 20px;
+    
+}
+/*this is menu...............................................................................................*/
+.menu{
+    position: relative;
+    left:415px;
+    bottom: 80px;
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255) ;
+    padding:5px 8px 5px 8px;
+    border-radius: 15px;
+    
+}
+.menu:hover{
+    background-color: rgb(218, 215, 198)
+}
+#menu_wrap{
+    margin-right:5px
+}
+.hero {
+    margin:0;
+    height:700px;
+    background-image: url(../img/hero.png.jpg);
+    background-size: cover;
+    background-position: 0 0;
+    border-top: 5px solid rgb(150, 125, 80);
+    border-bottom: 5px solid rgb(150, 125, 80);
+}
+.footer {
+    background-color: black;
+    padding: 30px;
+}
+.ase {
+    color: aliceblue;
+    position: relative;
+    bottom: -35px;
+    float: right;
+    font-size: 20;
+}
+.asah{
+    color: aliceblue;
+    font-size: 15px;
+    text-indent: 10px;
+}
+.amok {
+    color: aliceblue;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Lucida Calligraphy;
+    text-indent: 60px;
+}
+.asim{
+    height: 20px;
+    width:30px;
+}
+.asam{
+    height: 20px;
+    width:33px;
+}
+.hah {
+    text-indent: 31px;
+    color: aliceblue;
+    position: relative;
+    bottom: 5px;
+}
+.hyh {
+    text-indent: 33px;
+    color: aliceblue;
+    position: relative;
+    bottom: 5px;
+}
+.logo {
+    height: 100px;
+    width: 150px;
+    position: relative;
+    left:520px;
+    top:-10px;
+    margin-top:-600px;
+}
+
+
+
+

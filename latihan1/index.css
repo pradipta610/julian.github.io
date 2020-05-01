@@ -1,0 +1,29 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.hclass {
+    background-color: beige;
+}
+
+.one {
+    text-align: center;
+}
+
+.two {
+    text-align: right;
+}
+
+.three {
+    text-align: justify;
+}
+
+.pp {
+    text-align: center;
+}

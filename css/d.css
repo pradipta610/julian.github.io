@@ -1,0 +1,399 @@
+*{
+    margin:0%;
+}
+html,body{
+    background-color: rgba(56, 31, 10, 0.856)
+}
+
+.header img{
+    height: 150px;
+    width: 300px;
+    position: relative;
+    top: 20px;
+    
+}
+/*ini buat b.................................................................................................*/
+#awwa{
+    background-color: white;
+    height:1100px;
+    border-top:5px solid rgb(150, 125, 80) ;
+    border-bottom:5px solid rgb(150, 125, 80) ;
+}
+.dada{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+.didi{
+    padding-left: 32px;
+    font-style: italic;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+/*this is menu...............................................................................................*/
+.menu{
+    position: relative;
+    left:415px;
+    bottom: 80px;
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255) ;
+    padding:5px 8px 5px 8px;
+    border-radius: 15px;
+    
+}
+.menu:hover{
+    background-color: rgb(218, 215, 198)
+}
+#menu_wrap{
+    margin-right:5px
+}
+.hero {
+    margin:0;
+    height:700px;
+    background-image: url(hero.png.jpg);
+    background-size: cover;
+    background-position: 0 0;
+    border-top: 5px solid rgb(150, 125, 80);
+    border-bottom: 5px solid rgb(150, 125, 80);
+}
+.footer {
+    background-color: black;
+    padding: 20px;
+}
+.ase {
+    color: aliceblue;
+    position: relative;
+    bottom: -35px;
+    float: right;
+    font-size: 20;
+}
+.asah{
+    color: aliceblue;
+    font-size: 15px;
+    text-indent: 10px;
+}
+.amok {
+    color: aliceblue;
+    font-size: 20px;
+    font-style: italic;
+    font-family:  Lucida Calligraphy;
+    text-indent: 60px;
+    
+}
+.ahs {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+
+    }
+    .ash{
+        padding-left: 32px;
+        font-style: italic;
+        color: black;
+        font-size: 25px;
+        text-align: center;
+    }
+    #huha {
+        background-color: antiquewhite;
+        height:1000px;
+        border-top:5px solid rgb(150, 125, 80) ;
+        border-bottom:5px solid rgb(150, 125, 80) ;
+    }
+    .asah{
+        color: aliceblue;
+        font-size: 15px;
+        text-indent: 10px;
+    }
+    .asim{
+        height: 20px;
+        width:30px;
+        position: relative;
+        top:20px;
+    }
+    .asam{
+        height: 20px;
+        width:33px;
+        position: relative;
+        top:20px;
+    }
+    .hah {
+        text-indent: 31px;
+        color: aliceblue;
+        position: relative;
+        bottom: 5px;
+    }
+    .hyh {
+        text-indent: 33px;
+        color: aliceblue;
+        position: relative;
+        bottom: 5px;
+    }
+    .logo{
+        height: 100px;
+        width: 150px;
+        position: relative;
+        left:520px;
+        top:-10px;
+        margin-top:-600px;
+    }
+    .container{
+        width: 1200px;
+        height: 850px;
+        background-color: white;
+        margin:auto;
+        margin-bottom: 10px;
+        padding: 10px;
+        border-radius:8px;
+        box-shadow: 0 0 3px 3px rgba(0,0,0,.3);
+    
+    }
+    .gallery li .ss{
+        height:200px;
+        width: 300px;
+    }
+    .gallery li .sa{
+        height:300px;
+        width: 220px;
+    }
+    
+    .gallery li{
+        margin-top:35px;
+        height: 190px;
+        width: 300px;
+        border-radius:8px;
+        overflow: hidden;
+        border:5px solid #666;
+        float:left;
+        margin-right: 55px;
+        margin-left: 20px;
+        position: relative;
+    }
+    .gallery .kirikanan{
+        margin-top:35px;
+        height: 190px;
+        width: 300px;
+        border-radius:8px;
+        overflow: hidden;
+        border:5px solid #666;
+        float:left;
+        margin-bottom: 200px;
+        margin-right: 55px;
+        margin-left: 20px;
+        position: relative;
+        top:50px;
+    }
+    .gallery .potrait{
+        margin-top:35px;
+        height: 300px;
+        width: 220px;
+        border-radius:8px;
+        overflow: hidden;
+        border:5px solid #666;
+        float:left;
+        margin-right: 95px;
+        margin-left: 60px;
+        position: relative;
+    }
+    .gallery .bawah2{
+        margin-top:35px;
+        height: 190px;
+        width: 300px;
+        border-radius:8px;
+        overflow: hidden;
+        border:5px solid #666;
+        float:left;
+        margin-right: 55px;
+        margin-left: 20px;
+        position: relative;
+        bottom: 90px;
+      
+    }
+    .gallery .bawah1{
+        margin-bottom:5px;
+        height: 190px;
+        width: 300px;
+        border-radius:8px;
+        overflow: hidden;
+        border:5px solid #666;
+        float:left;
+        margin-right: 55px;
+        margin-left: 20px;
+        position: relative;
+        bottom: 90px;
+    }
+    .gallery li span{
+        display: block;
+        height: 190px;
+        width: 300px;
+        background-color: rgba(200,200,200,0.5);
+        position:absolute;
+        top:0;
+        text-align: center;
+        font-style:bold;
+        font-size:30px;
+        line-height: 190px;
+        color:#333;
+        text-shadow: 1px 1px 1px #ddd;  
+        opacity:0;
+        transform: scale(0) rotate(0);
+        transition: .3s;
+    
+    }
+    .gallery li a:hover span{
+    opacity:1;
+    transform: scale(1) rotate(360deg);
+    }
+    .clear{
+        clear: both;
+    }
+
+    .gallery .potrait span{
+        display: block;
+        height: 300px;
+        width: 220px;
+        background-color: rgba(200,200,200,0.5);
+        position:absolute;
+        top:0;
+        text-align: center;
+        font-style:bold;
+        font-size:30px;
+        line-height: 290px;
+        color:#333;
+        text-shadow: 1px 1px 1px #ddd;  
+        opacity:0;
+        transform: scale(0) rotate(0);
+        transition: .3s;
+    }
+    .gallery li a:hover span{
+    opacity:1;
+    transform: scale(1) rotate(360deg);
+    }
+    .clear{
+        clear: both;
+    }
+    .gallery .kirikanan span{
+        display: block;
+        height: 190px;
+        width: 300px;
+        background-color: rgba(200,200,200,0.5);
+        position:absolute;
+        top:0;
+        text-align: center;
+        font-style:bold;
+        font-size:30px;
+        line-height: 190px;
+        color:#333;
+        text-shadow: 1px 1px 1px #ddd;  
+        opacity:0;
+        transform: scale(0) rotate(0);
+        transition: .3s;
+    }
+    .gallery li a:hover span{
+    opacity:1;
+    transform: scale(1) rotate(360deg);
+    }
+    .clear{
+        clear: both;
+    }
+    .overlay{
+        width:0;
+        height:0;
+        overflow: hidden;
+        position:fixed;
+        top:0;
+        left:0;
+        background :rgba(0,0,0,0);
+        z-index:9999;
+        transition: .8s;
+        text-align: center;
+        padding-top: 40px;
+       
+    }
+    .overlay:target {
+        width: auto;
+        height: auto;
+        bottom:0;
+        right: 0;
+        background:rgba(0,0,0,.8)
+    }
+    .overlay img{
+        max-height:100%;
+        box-shadow:2px 2px 7px rgba(0,0,0,.5);
+    }
+    .overlay:target img{
+        animation: zoomandfade 1s;
+    }
+    .overlay .close{
+        position: absolute;
+        top:10px;
+        left:80%;
+        margin-left: -2px;
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+        background-color: #ddd;
+        border: 1px black solid;
+        line-height: 14px;
+        padding: 6px;
+        opacity: 0; 
+        border-radius: 5px;
+    }
+    .overlay:target .close {
+        animation: slidedownfade .5s .5s forwards;
+    }
+    .overlay:target .next,.overlay:target .prev {
+        animation: fade .5s .5s forwards;
+    }
+    
+    .next,.prev{
+        width: 50px;
+        height: 45px;
+        background-image: url(../img/next.png);
+        position: absolute;
+        text-indent: -9999px;
+        top:50%;
+        margin-left: 50px;
+        opacity: 0;
+    
+    
+    }
+    .prev {
+        background-image: url(../img/prev.png);
+        margin-left:-100px;
+    }
+    
+    /*animasi*/
+    @keyframes fade {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+    @keyframes zoomandfade {
+        0% {
+            transform: scale(0);
+            opacity: 0;
+        }
+        100% {
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+    @keyframes slidedownfade {
+        0% {
+            opacity: 0;
+            margin-top:-20px;
+        }
+        100%{
+            opacity: 1;
+            margin-top: 0;
+        }
+    }

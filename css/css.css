@@ -1,0 +1,16 @@
+#pradipta{
+    background: blue
+}
+.menu{
+    color: red
+}
+#menu-web{
+    background: yellow
+}
+/*this is background photo color and theme*/
+body{
+    background-color:rgb(212, 212, 212);
+    background-image: url("line_32523214753580.jpg");
+    background-attachment: fixed;
+    background-position: center
+}
